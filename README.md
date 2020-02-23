@@ -1,4 +1,4 @@
-Data set: 
+Data set:
   https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 Formulas:
   | x - y |
